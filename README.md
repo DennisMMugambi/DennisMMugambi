@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisMMugambi
-- 👀 I’m interested in all things mobile development, android/ios
+- 👀 I’m interested in all things mobile development, android/ios 😎
 - 🌱 I’m currently learning swiftui
-- 💞️ I’m looking to collaborate on an cool project really 😅
+- 💞️ I’m looking to collaborate on any cool project really 😅
 - 📫 How to reach me @Dennis_Mugambi_ on twitter, dennis.mutwiri.mugambi@gmail.com
 
 <!---
