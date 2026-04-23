@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DennisMMugambi
-- 👀 I’m interested in all things mobile development, android/ios 😎
-- 💞️ I’m looking to collaborate on any cool projects
+- 👋 Hi, I’m @DennisMMugambi.
+- 👀 I’m interested in all things mobile development, android/ios 😎.
+- 💞️ I’m looking to collaborate on any cool projects.
 - 📫 How to reach me @Dennis_Mugambi_ on twitter, dennis.mutwiri.mugambi@gmail.com
 
 <!---
