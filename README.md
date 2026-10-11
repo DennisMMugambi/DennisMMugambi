@@ -11,10 +11,6 @@ $ cat now.txt
 building stuff. shipping some of it.
 reading docs i should have read first.
 
-$ sudo take-myself-seriously
-Permission denied.
-```
-
 <!-- GIF SLOT: drag a gif into any GitHub comment box, copy the URL it gives you,
      paste it below, then delete this comment. Delete the whole block if you'd rather not. -->
 <img align="right" width="220" src="PASTE_YOUR_GIF_URL_HERE" alt="" />
